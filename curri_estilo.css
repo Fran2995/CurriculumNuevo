@@ -1,0 +1,9 @@
+body{
+	background-color: lightyellow;
+}
+div{
+	background-color: white;
+	border: 1px solid black;
+	padding: 12px;
+	width: 60%;
+}
